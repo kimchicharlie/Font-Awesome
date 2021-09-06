@@ -818,6 +818,7 @@ export type IconName = '500px' |
   'child' | 
   'church' | 
   'circle' | 
+  'circle-info' | 
   'circle-notch' | 
   'city' | 
   'clinic-medical' | 
